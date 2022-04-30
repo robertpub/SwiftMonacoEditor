@@ -39,7 +39,7 @@ let package = Package(
     .package(
       name: "Gzip",
       url: "https://github.com/1024jp/GzipSwift.git",
-      .upToNextMajor(from: "5.1.1")
+      .upToNextMajor(from: "5.2.0")
     )
   ],
   targets: [
